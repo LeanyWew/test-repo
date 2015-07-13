@@ -1,2 +1,5 @@
 # test-repo
-figuring out
+## figuring out
+* a
+* b
+* c
